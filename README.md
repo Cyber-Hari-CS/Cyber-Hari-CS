@@ -15,7 +15,7 @@
 ┌──(root💀kali)-[~/github]
 └─# cat profile.json
 {
-  "alias"  : "0xCYBER_X",
+  "alias"  : "Hari-Bagavath",
   "role"   : ["Ethical Hacker", "OSINT Researcher", "CTF Player"],
   "os"     : "Kali Linux / Parrot OS",
   "focus"  : ["Web App Pentesting", "Network Recon", "Social Engineering"],
