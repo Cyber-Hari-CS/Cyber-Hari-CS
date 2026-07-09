@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+[YOUR+NAME];Ethical+Hacker+%7C+OSINT+Researcher;CTF+Player+%7C+Pentester;The+quieter+you+become...)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+[Hari Bagavath];Ethical+Hacker+%7C+OSINT+Researcher;CTF+Player+%7C+Pentester;The+quieter+you+become...)
 
 </div>
 
@@ -49,31 +49,18 @@ hacker = {
 
 ---
 
-## 🔍 OSINT Skills
 
 
 
+
+
+
+---
 
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=chartreuse-dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOURUSERNAME&theme=chartreuse-dark&hide_border=true)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
