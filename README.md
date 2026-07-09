@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=700&lines=%5B+0xCYBER_X+%5D;Ethical+Hacker+%7C+OSINT+Researcher;CTF+Player+%7C+Bug+Bounty+Hunter;The+quieter+you+become...)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=700&lines=%5B+Hari-Bagavath+%5D;Ethical+Hacker+%7C+OSINT+Researcher;CTF+Player+%7C+Bug+Bounty+Hunter;The+quieter+you+become...)
 
 ![](https://img.shields.io/badge/Status-Available_for_Collab-00ff41?style=flat-square&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/OS-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
